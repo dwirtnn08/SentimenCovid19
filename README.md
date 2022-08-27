@@ -1,2 +1,9 @@
 # SentimenCovid19
- Proyek Tugas Akhir
+ Proyek Tugas Akhir 
+ 
+ Tentang 
+ 
+ Menggunakan Bahasa Pemograman :
+ - HTML+CSS 
+ - Python
+ - Django
